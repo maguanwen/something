@@ -1,6 +1,4 @@
 # something
 something by vue3
 
-ahahahahaha
-
-hehehehehe
+node version 18.20.4
